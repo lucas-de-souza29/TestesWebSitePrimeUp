@@ -14,6 +14,7 @@ public class Hooks {
 	
 	@After
 	public void tearDown(Scenario scenario) {
+		capturarTela(scenario);
 		driver.quit();
 	}
 }

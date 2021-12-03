@@ -31,8 +31,5 @@
 			<artifactId>cucumber-java</artifactId>
 			<version>4.7.2</version>
 		</dependency>
-
 	</dependencies>
-  
-  
 </project>

@@ -1,4 +1,4 @@
-#language:pt
+#language: pt
 #enconding:  UTF-8
 
 Funcionalidade: Pesquisar assunto no site
