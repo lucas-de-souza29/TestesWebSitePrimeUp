@@ -10,7 +10,7 @@ public class PesquisarDadosSteps {
 	
 	@Dado("que o usuario acesse o site")
 	public void queOUsuarioAcesseOSite() {
-       Na(PesquisarDadosPage.class).clicarBotaoPesquisa();	        
+           Na(PesquisarDadosPage.class).clicarBotaoPesquisa();	        
 	}
 
 	@Dado("o usuario pesquise o assunto {string}")
