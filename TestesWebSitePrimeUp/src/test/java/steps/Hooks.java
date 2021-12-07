@@ -7,7 +7,7 @@ import io.cucumber.java.After;
 import io.cucumber.java.Before;
 public class Hooks {
 	
-	@Before()
+	@Before
 	public void setUp() {
 		acessarSistema();
 	}
